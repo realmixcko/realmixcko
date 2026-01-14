@@ -1,7 +1,7 @@
 # Hi there 👋
 
 👤 **I'm Mixcko**  
-⚙ **Programmer:** HTML, CSS, JavaScript, Java, Python  
+⚙ **Programmer:** HTML, CSS, JavaScript, Python  
 🌍 **Languages:** German, English  
 🚩 **Country:** Germany  
 
@@ -9,7 +9,8 @@
 - TypeScript  
 - Node.js  
 - React / Next.js  
-- Advanced Minecraft Plugin Development  
+- Advanced Minecraft Plugin Development / Java
+- C/C++
 
 ## 🔗 Links
 - Discord: https://discord.gg/r4YcNYj
