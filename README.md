@@ -1,12 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-👤 I'm Mixcko.
-⚙ Programmer (HTML, CSS, Javascript, Java, Python)
-🚩 Сountry: Germany
-🌍 Language: German, English
+👤 **I'm Mixcko**  
+⚙ **Programmer:** HTML, CSS, JavaScript, Java, Python  
+🌍 **Languages:** German, English  
+🚩 **Country:** Germany  
 
-## Links
+## 🌱 Currently Learning
+- TypeScript  
+- Node.js  
+- React / Next.js  
+- Advanced Minecraft Plugin Development  
 
-Discord: https://discord.gg/r4YcNYj
-Website: https://mixcko.netlify.app/
-Twitter: https://x.com/realmixcko
+## 🔗 Links
+- [Discord](https://discord.gg/r4YcNYj)  
+- [Website](https://mixcko.netlify.app/)  
+- [Twitter](https://x.com/realmixcko)
