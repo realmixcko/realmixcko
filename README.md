@@ -6,10 +6,7 @@
 🚩 **Country:** Germany  
 
 ## 🌱 Currently Learning
-- TypeScript  
-- Node.js  
-- React / Next.js  
-- Advanced Minecraft Plugin Development / Java
+- Java
 - C/C++
 
 ## 🔗 Links
