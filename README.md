@@ -24,6 +24,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-F25022?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## 🌱 Currently Learning
 
