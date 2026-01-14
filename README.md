@@ -12,6 +12,6 @@
 - Advanced Minecraft Plugin Development  
 
 ## 🔗 Links
-- [Discord](https://discord.gg/r4YcNYj)  
-- [Website](https://mixcko.netlify.app/)  
-- [Twitter](https://x.com/realmixcko)
+- Discord: https://discord.gg/r4YcNYj
+- Website: https://mixcko.netlify.app/
+- Twitter: https://x.com/realmixcko
