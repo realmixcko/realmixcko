@@ -35,5 +35,5 @@
 
 ## 🔗 Links
 - Website: https://mixcko.netlify.app/
-- Discord: https://discord.gg/r4YcNYj
+- Discord: 
 - Twitter: https://x.com/realmixcko
