@@ -38,4 +38,4 @@
 - Discord: https://discord.gg/jnK6EQfdS2
 - Twitter: https://x.com/realmixcko
 
-**A Smooth Sea Never Made a Skilled Sailor**
+# A Smooth Sea Never Made a Skilled Sailor
