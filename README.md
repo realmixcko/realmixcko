@@ -1,7 +1,7 @@
 # Hi there 👋
 
 👤 **I'm Mixcko**  
-⚙ **Programmer** (Java, Javascript, C/C++)                                                                                                                                                                                                                                       
+⚙ **Programmer** (HTML, CSS, Python, Javascript)                                                                                                                                                                                                                                       
 🌍 **Languages:** German, English  
 🚩 **Country:** Germany  
 
