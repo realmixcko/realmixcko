@@ -1,7 +1,7 @@
 # Hi there 👋
 
 👤 **I'm Mixcko**  
-⚙ **Programmer** (HTML, CSS, Python, Javascript)                                                                                                                                                                                                                                       
+⚙ **Programmer** (Javascript, Python, C#, learning Rust)                                                                                                                                                                                                                                       
 🌍 **Languages:** German, English  
 
 
