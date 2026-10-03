@@ -3,7 +3,6 @@
 👤 **I'm Mixcko**  
 ⚙ **Programmer** (HTML, CSS, Python, Javascript)                                                                                                                                                                                                                                       
 🌍 **Languages:** German, English  
-🚩 **Country:** Germany  
 
 
 
