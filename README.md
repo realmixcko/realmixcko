@@ -1,7 +1,7 @@
 # Hi there 👋
 
 👤 **I'm Mixcko**  
-⚙ **Programmer** (Javascript, Python, C#, learning Rust)                                                                                                                                                                                                                                       
+⚙ **Programmer** (Javascript, Python, C#, learning Rust and Java)                                                                                                                                                                                                                                       
 🌍 **Languages:** German, English  
 
 
