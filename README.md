@@ -5,7 +5,7 @@
 🌍 **Languages:** German, English  
 
 
-### Languages & Tools
+### Internships
 * Krankikom www.krankikom.de
 * Benteler Electrical Engineering www.benteler.com
 
