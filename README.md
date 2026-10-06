@@ -6,7 +6,7 @@
 
 
 ### Languages & Tools
-* Krankikom https://www.krankikom.de/en
+* Krankikom www.krankikom.de
 
 ### Languages & Tools
 
