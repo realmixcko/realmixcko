@@ -5,9 +5,14 @@
 🌍 **Languages:** German, English  
 
 
-### Internships
-* Krankikom www.krankikom.de (2 weeks)
-* Benteler Electrical Engineering www.benteler.com (2 weeks)
+## 💼 Experience
+
+### Krankikom
+📍 Internship — 2 weeks
+
+### Benteler Electrical Engineering
+📍 Internship — 2 weeks
+
 
 ### Languages & Tools
 
