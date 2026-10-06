@@ -5,6 +5,8 @@
 🌍 **Languages:** German, English  
 
 
+### Languages & Tools
+* Krankikom https://www.krankikom.de/en
 
 ### Languages & Tools
 
