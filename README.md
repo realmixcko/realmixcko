@@ -6,8 +6,8 @@
 
 
 ### Internships
-* Krankikom www.krankikom.de
-* Benteler Electrical Engineering www.benteler.com
+* Krankikom www.krankikom.de (2 weeks)
+* Benteler Electrical Engineering www.benteler.com (2 weeks)
 
 ### Languages & Tools
 
