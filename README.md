@@ -35,4 +35,10 @@
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 
+## 📫 Contact
+
+- 💬 Discord: `wmixcko`
+- 📧 Email: `realmixcko@gmail.com`
+
+
 # A Smooth Sea Never Made a Skilled Sailor
