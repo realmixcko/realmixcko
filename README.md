@@ -7,10 +7,10 @@
 
 ## 💼 Experience
 
-### Krankikom
+### Krankikom (www.krankikom.de)
 📍 Internship — 2 weeks
 
-### Benteler Electrical Engineering
+### Benteler Electrical Engineering (www.benteler.com)
 📍 Internship — 2 weeks
 
 
